@@ -2,6 +2,8 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ * I am learning how to use Github and Git
+ * updated the remark for checkin.
  */
 public class App {
 
